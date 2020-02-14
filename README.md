@@ -18,3 +18,8 @@ Although in version 0.1, it aims to provide a simple and sleek app to show your 
 * A "new item" button on the bottom to add new items
 * Save the data to a file so it stays on reboot.
 
+Thank you for reading.
+
+If you are passing by and want to add suggestions you could open an issue :happy:
+
+also you could visit my website: [ajnart.xyz](https://ajnart.xyz)
